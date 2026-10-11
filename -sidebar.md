@@ -1,5 +1,5 @@
-*   [Trang Chủ](Home)**
-* **Giới Thiệu Nhà Trường**
+*   [Trang Chủ](/)
+* **Giới thiệu Nhà trường**
   * [Lịch sử hình thành](Lich-su-hinh-thanh)
   * [Ban giám hiệu](Ban-giam-hieu)
   * [Cơ sở vật chất](Co-so-vat-chat)
