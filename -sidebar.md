@@ -10,6 +10,9 @@
   * [Thời khóa biểu](Thoi-khoa-bieu)
 * **Thư Viện Ảnh**
   * [Album hoạt động](Album-hoat-dong)
-
+* ** Thông Báo Mới**
+* [Thông báo tuyển sinh lớp 1 năm học mới](thong-bao-tuyen-sinh.html)
+* [Kế hoạch họp phụ huynh học sinh đầu năm](hop-phu-huynh.html)
+* [Lịch nghỉ lễ sắp tới của học sinh](lich-nghi-le.html)
 ---
 📞 **Hotline:** 0251.333.666
